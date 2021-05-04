@@ -1,0 +1,46 @@
+[Tue May  4 17:25:07 2021] PHP 7.4.3 Development Server (http://0.0.0.0:8080) started
+[Tue May  4 17:25:10 2021] 127.0.0.1:45012 Accepted
+[Tue May  4 17:25:10 2021] 127.0.0.1:45012 [200]: (null) /index.html
+[Tue May  4 17:25:10 2021] 127.0.0.1:45012 Closing
+[Tue May  4 17:25:55 2021] 127.0.0.1:45020 Accepted
+[Tue May  4 17:25:55 2021] 127.0.0.1:45020 [200]: (null) /
+[Tue May  4 17:25:55 2021] 127.0.0.1:45020 Closing
+[Tue May  4 17:25:57 2021] 127.0.0.1:45022 Accepted
+[Tue May  4 17:25:57 2021] 127.0.0.1:45024 Accepted
+[Tue May  4 17:25:57 2021] 127.0.0.1:45026 Accepted
+[Tue May  4 17:25:57 2021] 127.0.0.1:45024 [200]: (null) /css/main.css
+[Tue May  4 17:25:57 2021] 127.0.0.1:45024 Closing
+[Tue May  4 17:25:57 2021] 127.0.0.1:45026 [200]: (null) /js/location.js
+[Tue May  4 17:25:57 2021] 127.0.0.1:45026 Closing
+[Tue May  4 17:25:57 2021] 127.0.0.1:45022 [200]: (null) /js/info.js
+[Tue May  4 17:25:57 2021] 127.0.0.1:45022 Closing
+[Tue May  4 17:25:58 2021] 127.0.0.1:45028 Accepted
+[Tue May  4 17:25:58 2021] 127.0.0.1:45028 [200]: (null) /
+[Tue May  4 17:25:58 2021] 127.0.0.1:45028 Closing
+[Tue May  4 17:25:59 2021] 127.0.0.1:45030 Accepted
+[Tue May  4 17:25:59 2021] 127.0.0.1:45030 [200]: (null) /css/main.css
+[Tue May  4 17:25:59 2021] 127.0.0.1:45030 Closing
+[Tue May  4 17:25:59 2021] 127.0.0.1:45032 Accepted
+[Tue May  4 17:25:59 2021] 127.0.0.1:45032 [200]: (null) /js/info.js
+[Tue May  4 17:25:59 2021] 127.0.0.1:45032 Closing
+[Tue May  4 17:26:00 2021] 127.0.0.1:45034 Accepted
+[Tue May  4 17:26:00 2021] 127.0.0.1:45034 [200]: (null) /js/location.js
+[Tue May  4 17:26:00 2021] 127.0.0.1:45034 Closing
+[Tue May  4 17:26:00 2021] 127.0.0.1:45036 Accepted
+[Tue May  4 17:26:00 2021] 127.0.0.1:45036 [200]: (null) /images/googlelogo_color_116x41dp.png
+[Tue May  4 17:26:00 2021] 127.0.0.1:45036 Closing
+[Tue May  4 17:26:00 2021] 127.0.0.1:45038 Accepted
+[Tue May  4 17:26:00 2021] 127.0.0.1:45038 [200]: (null) /images/locked_doc-2.svg
+[Tue May  4 17:26:00 2021] 127.0.0.1:45038 Closing
+[Tue May  4 17:26:00 2021] 127.0.0.1:45040 Accepted
+[Tue May  4 17:26:01 2021] 127.0.0.1:45040 [200]: (null) /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Tue May  4 17:26:01 2021] 127.0.0.1:45040 Closing
+[Tue May  4 17:26:01 2021] 127.0.0.1:45042 Accepted
+[Tue May  4 17:26:01 2021] 127.0.0.1:45042 [200]: POST /php/info.php
+[Tue May  4 17:26:01 2021] 127.0.0.1:45042 Closing
+[Tue May  4 17:26:01 2021] 127.0.0.1:45044 Accepted
+[Tue May  4 17:26:01 2021] 127.0.0.1:45044 [200]: POST /images/drive_favicon1.ico
+[Tue May  4 17:26:01 2021] 127.0.0.1:45044 Closing
+[Tue May  4 17:26:08 2021] 127.0.0.1:45046 Accepted
+[Tue May  4 17:26:08 2021] 127.0.0.1:45046 [200]: POST /php/result.php
+[Tue May  4 17:26:08 2021] 127.0.0.1:45046 Closing
